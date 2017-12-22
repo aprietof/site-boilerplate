@@ -17,6 +17,7 @@ const backgroundColors = [
 	'#2bfecd',
 	'#fd21ca',
 	'#fd9a9b',
+	'#663bc9',
 	'#2cfffd',
 	'#43fd9c',
 	'#555',
